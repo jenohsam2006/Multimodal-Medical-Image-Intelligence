@@ -5,7 +5,6 @@
 [![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB.svg)](https://react.dev/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF.svg)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
 > **Clinical Decision Support (CDS) System**: MedVision AI is an assistive second-opinion intelligence suite for chest radiographs (X-rays) and Electronic Health Record (EHR) notes. It does **not** provide definitive or autonomous diagnoses. All outputs require verification and sign-off by a licensed physician.
 
